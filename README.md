@@ -10,3 +10,6 @@
 
 D03 ergonomic layout: https://superlesha.github.io/okta-dj-animation/d03.html
 Old D02 animation remains at the root. D03 is a layout candidate; automatic closer, latch and new mounting details are not complete.
+
+
+[Галерея фасадов D05 A–E](https://superlesha.github.io/okta-dj-animation/gallery.html) — пять студийных AI-визуализаций; адаптировано для телефона.
